@@ -1,0 +1,14 @@
+# Existing execution environment used to validate this release snapshot.
+# This is an observation, not a full environment lock or a requirement to upgrade.
+Python 3.10.19
+Local source package version: ultralytics 8.4.24 (modified)
+torch==2.10.0
+torchvision==0.25.0
+numpy==2.2.6
+opencv-python==4.13.0.92
+PyYAML==6.0.3
+ultralytics-thop==2.0.18
+polars==1.38.1
+scipy==1.15.3
+pillow==12.1.1
+matplotlib==3.10.8

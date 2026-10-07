@@ -1,0 +1,7 @@
+# the Cross-Scenario Underwater Fish Dataset.
+train: data/the Cross-Scenario Underwater Fish Dataset/images/train
+val: data/the Cross-Scenario Underwater Fish Dataset/images/val
+test:
+  - "data/the Cross-Scenario Underwater Fish Dataset/test/Feeding aggregation/images"
+names:
+  0: fish
